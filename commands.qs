@@ -71,12 +71,7 @@ LAST	P3602	Q25052149	P768	Q750978	P102	Q9626	P1111	4614	P1352	3	S4656	"https://e
 Q76450637	P3602	Q215622	P768	Q750978	P102	Q9626	P1111	4416	P1352	3	S4656	"https://en.wikipedia.org/wiki/Arfon_(UK_Parliament_constituency)"
 Q75975229	P3602	Q215622	P768	Q750978	P102	Q9624	P1111	3666	P1352	4	S4656	"https://en.wikipedia.org/wiki/Arfon_(UK_Parliament_constituency)"
 Q76509739	P3602	Q3586935	P768	Q750978	P102	Q10647	P1111	2277	P1352	4	S4656	"https://en.wikipedia.org/wiki/Arfon_(UK_Parliament_constituency)"
-CREATE
-LAST	P31	Q5
-LAST	Len	"Steffie Williams Roberts"
-LAST	Den	"UK election candidate"
-LAST	P106	Q19772737
-LAST	P3602	Q30173038	P768	Q750978	P102	Q832685	P1111	10353	P1352	2	S4656	"https://en.wikipedia.org/wiki/Arfon_(UK_Parliament_constituency)"
+Q76364108	P3602	Q30173038	P768	Q750978	P102	Q832685	P1111	10353	P1352	2	S4656	"https://en.wikipedia.org/wiki/Arfon_(UK_Parliament_constituency)"
 Q8013725	P3602	Q3075752	P768	Q45583697	P102	Q622441	P1111	6223	P1352	1	S4656	"https://en.wikipedia.org/wiki/Arfon_(UK_Parliament_constituency)"
 Q8013725	P3602	Q3076606	P768	Q45583697	P102	Q622441	P1111	5945	P1352	1	S4656	"https://en.wikipedia.org/wiki/Arfon_(UK_Parliament_constituency)"
 Q8013725	P3602	Q7888019	P768	Q45583697	P102	Q622441	P1111	4488	P1352	1	S4656	"https://en.wikipedia.org/wiki/Arfon_(UK_Parliament_constituency)"
