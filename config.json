@@ -1,0 +1,20 @@
+{
+  "wikipedia": "https://en.wikipedia.org/wiki/Arfon_(UK_Parliament_constituency)",
+  "wikidata": [{
+    "id": "Q750978",
+    "start": "2010",
+    "end": "9999"
+  }, {
+    "id": "Q45583697",
+    "start": "1885",
+    "end": "1918"
+  }],
+  "combofile": "combo.csv",
+  "new_person_description": "UK election candidate",
+  "mapping": {
+    "election": {
+    },
+    "party" : {
+    }
+  }
+}
