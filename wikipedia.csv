@@ -1,0 +1,30 @@
+id,name,party,partyLabel,votes,election,electionLabel,ranking
+Q8017389,William Rathbone,Q622441,Liberal Party (UK),4562,Q3397257,General election 1885,1
+,Henry Platt,Q9626,Conservative Party (UK),2838,Q3397257,General election 1885,2
+Q8017389,William Rathbone,Q622441,Liberal Party (UK),4072,Q7888016,General election 1886,1
+,Henry Platt,Q9626,Conservative Party (UK),2950,Q7888016,General election 1886,2
+Q8013725,William Jones,Q622441,Liberal Party (UK),4488,Q7888019,General election 1895,1
+,Alfred William Hughes,Q9626,Conservative Party (UK),2860,Q7888019,General election 1895,2
+Q8013725,William Jones,Q622441,Liberal Party (UK),5945,Q3076606,General election 1906,1
+,Arthur E. Hughes,Q9626,Conservative Party (UK),2533,Q3076606,General election 1906,2
+Q8013725,William Jones,Q622441,Liberal Party (UK),6223,Q3075752,General election January 1910,1
+,Arthur E. Hughes,Q9626,Conservative Party (UK),2629,Q3075752,General election January 1910,2
+Q266189,Hywel Williams,Q10691,Plaid Cymru,9383,Q215622,General election 2010,1
+Q4737506,Alun Pugh,Q9630,Labour Party (UK),7928,Q215622,General election 2010,2
+Q76450637,Robin Millar,Q9626,Conservative Party (UK),4416,Q215622,General election 2010,3
+,Sarah Green,Q9624,Liberal Democrats (UK),3666,Q215622,General election 2010,4
+,Elwyn Williams,Q10647,UK Independence Party,685,Q215622,General election 2010,5
+Q266189,Hywel Williams,Q10691,Plaid Cymru,11790,Q3586935,General election 2015,1
+Q4737506,Alun Pugh,Q9630,Labour Party (UK),8122,Q3586935,General election 2015,2
+,Anwen Barry,Q9626,Conservative Party (UK),3521,Q3586935,General election 2015,3
+,Simon Wall,Q10647,UK Independence Party,2277,Q3586935,General election 2015,4
+,Mohammed Shultan,Q9624,Liberal Democrats (UK),718,Q3586935,General election 2015,5
+,Kathrine Jones,Q3491460,Socialist Labour Party (UK),409,Q3586935,General election 2015,6
+Q266189,Hywel Williams,Q10691,Plaid Cymru,11519,Q25052149,General election 2017,1
+,Mary Clarke,Q9630,Labour Party (UK),11427,Q25052149,General election 2017,2
+,Philippa Parry,Q9626,Conservative Party (UK),4614,Q25052149,General election 2017,3
+,Calum Davies,Q9624,Liberal Democrats (UK),648,Q25052149,General election 2017,4
+Q266189,Hywel Williams,Q10691,Plaid Cymru,13134,Q30173038,General election 2019,1
+,Steffie Williams Roberts,Q832685,Welsh Labour,10353,Q30173038,General election 2019,2
+,Gonul Daniels,Q7981882,Welsh Conservative Party,4428,Q30173038,General election 2019,3
+,Gary Gribben,Q61651140,Brexit Party,1159,Q30173038,General election 2019,4
